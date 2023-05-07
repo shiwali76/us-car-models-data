@@ -1,1 +1,6 @@
-*.rb
+| Company Name | Model Name | On-road pricing | Loan amount | Monthly EMI | Interest Rate | Monthly Principal | Monthly Interest |
+| ------------ | ---------- | -------------- | ----------- | ----------- | ------------- | ---------------- | ---------------- |
+| Honda        | Civic      | 25,00,000       | 20,00,000   | 35,998      | 8%            | 26,848            | 9,150            |
+| Hyundai      | Creta      | 18,00,000       | 14,50,000   | 26,098      | 9%            | 19,915            | 6,183            |
+| Maruti Suzuki| Swift      | 7,50,000        | 6,00,000    | 12,949      | 7%            | 10,486            | 2,463            |
+| Toyota       | Fortuner   | 35,00,000       | 28,00,000   | 50,997      | 9.5%          | 38,358            | 12,639           |
